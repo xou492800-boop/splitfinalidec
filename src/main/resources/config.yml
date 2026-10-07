@@ -1,0 +1,5 @@
+# Only these usernames (case-insensitive) can run -split- in chat,
+# hold the Soul Splitter, or use its abilities.
+authorized:
+  - xo1u
+  - DSBV

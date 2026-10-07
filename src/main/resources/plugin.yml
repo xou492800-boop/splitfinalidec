@@ -1,0 +1,6 @@
+name: SoulSplit
+main: dev.soulsplit.SoulSplitPlugin
+version: 1.0.0
+api-version: '1.21'
+description: Soul Splitter item (soul split + voodoo), restricted to a fixed list of players.
+authors: [SoulSplit]
